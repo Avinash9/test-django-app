@@ -10,7 +10,7 @@ v1_api.register(LogResource())
 
 urlpatterns = patterns('',
     # Examples:
-    # url(r'^$', 'rest_pp.views.home', name='home'),
+    url(r'^chat/(?P<user_id>[0-9a-zA-Z\-]+)$', 'polls.views.create_new_entity', name='create_new_entity'),
     # url(r'^blog/', include('blog.urls')),
     (r'^', include(v1_api.urls)),
 
