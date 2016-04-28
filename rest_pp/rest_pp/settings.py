@@ -85,3 +85,4 @@ USE_TZ = True
 STATIC_URL = '/static/'
 API_LIMIT_PER_PAGE = 10
 TASTYPIE_DEFAULT_FORMATS = ['json', 'xml']
+APPEND_SLASH=False

@@ -29,5 +29,11 @@ class LogResource(ModelResource):
         authorization = Authorization()
         list_allowed_methods = ['get','post','put']
 
+    # def pre
+    #
+    # def obj_create(self, bundle, **kwargs):
+    #     print ":::::::::",kwargs
+    #     print ":::::::::::::::::"
+
 
 

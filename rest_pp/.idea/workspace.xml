@@ -37,8 +37,8 @@
       <file leaf-file-name="resource.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/polls/resource.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.43589744">
-              <caret line="21" column="41" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="41" />
+            <state vertical-scroll-proportion="0.7492877">
+              <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="35" selection-end-column="35" />
               <folding>
                 <element signature="e#3#34#0" expanded="true" />
               </folding>
@@ -69,8 +69,8 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rest_pp/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-20.925926">
-              <caret line="86" column="42" selection-start-line="86" selection-start-column="42" selection-end-line="86" selection-end-column="42" />
+            <state vertical-scroll-proportion="-21.74074">
+              <caret line="87" column="18" selection-start-line="87" selection-start-column="18" selection-end-line="87" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -103,10 +103,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/rest_pp/settings.py" />
         <option value="$PROJECT_DIR$/polls/admin.py" />
         <option value="$PROJECT_DIR$/polls/models.py" />
         <option value="$PROJECT_DIR$/rest_pp/urls.py" />
+        <option value="$PROJECT_DIR$/rest_pp/settings.py" />
         <option value="$PROJECT_DIR$/polls/resource.py" />
       </list>
     </option>
@@ -795,12 +795,12 @@
       <created>1461860568012</created>
       <option name="number" value="Default" />
       <updated>1461860568012</updated>
-      <workItem from="1461860569740" duration="5298000" />
+      <workItem from="1461860569740" duration="6111000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5298000" />
+    <option name="totallyTimeSpent" value="6111000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -846,14 +846,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rest_pp/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.925926">
-          <caret line="86" column="42" selection-start-line="86" selection-start-column="42" selection-end-line="86" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/polls/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -870,6 +862,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/rest_pp/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-21.74074">
+          <caret line="87" column="18" selection-start-line="87" selection-start-column="18" selection-end-line="87" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/rest_pp/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -882,8 +882,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/polls/resource.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43589744">
-          <caret line="21" column="41" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="41" />
+        <state vertical-scroll-proportion="0.7492877">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="35" selection-end-column="35" />
           <folding>
             <element signature="e#3#34#0" expanded="true" />
           </folding>
