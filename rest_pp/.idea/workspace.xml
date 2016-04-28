@@ -37,8 +37,8 @@
       <file leaf-file-name="resource.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/polls/resource.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8148148">
-              <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+            <state vertical-scroll-proportion="0.43589744">
+              <caret line="21" column="41" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="41" />
               <folding>
                 <element signature="e#3#34#0" expanded="true" />
               </folding>
@@ -795,12 +795,12 @@
       <created>1461860568012</created>
       <option name="number" value="Default" />
       <updated>1461860568012</updated>
-      <workItem from="1461860569740" duration="5012000" />
+      <workItem from="1461860569740" duration="5298000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5012000" />
+    <option name="totallyTimeSpent" value="5298000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -882,8 +882,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/polls/resource.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8148148">
-          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+        <state vertical-scroll-proportion="0.43589744">
+          <caret line="21" column="41" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="41" />
           <folding>
             <element signature="e#3#34#0" expanded="true" />
           </folding>

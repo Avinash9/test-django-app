@@ -10,7 +10,6 @@ from tastypie import fields
 
 class UserResource(ModelResource):
 
-
     class Meta:
         queryset = LogUser.objects.all()
         resource_name = 'user'
