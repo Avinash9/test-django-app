@@ -11,7 +11,7 @@ from django.http import HttpResponse
 @csrf_exempt
 def create_new_entity(request,user_id):
     if request.META.get('REQUEST_METHOD') == 'POST':
-        response=create_entry(request.body,user_id)
+        response=create_entry(json.loads(request.body),user_id)
     elif request.META.get('REQUEST_METHOD') == 'GET':
         response=get_details(request,user_id)
     return HttpResponse(json.dumps(response), content_type="application/json")
@@ -19,7 +19,7 @@ def create_new_entity(request,user_id):
 
 
 def create_entry(data,user_id):
-    data = json.loads(data)
+    data = data
     message = data['message']
     time_stamp = data['time_stamp']
     is_sent = data['is_sent']
