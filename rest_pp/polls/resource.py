@@ -5,10 +5,10 @@ from models import Logs
 from tastypie.resources import ModelResource
 from tastypie.authentication import Authentication
 from tastypie.authorization import Authorization
+from tastypie import fields
 
 
-
-class LogResource(ModelResource):
+class UserResource(ModelResource):
 
 
     class Meta:
@@ -23,7 +23,7 @@ class LogResource(ModelResource):
 
 
 class LogResource(ModelResource):
-    user = fields.ForeignKey(QueryTemplateResource, 'resource', full=True)
+    user = fields.ForeignKey(UserResource, 'user', full=True)
 
     class Meta:
         queryset = Logs.objects.all().order_by('-time_stamp')
